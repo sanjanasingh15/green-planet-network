@@ -1,0 +1,412 @@
+/* Navbar */
+.nv{
+    background-color: #EFEFEF;
+
+}
+
+.nav-title{
+    color: #555B6E;
+    padding-left: 2%;
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 500;
+}
+.nav-link{
+    margin: 0rem 1.5rem;
+    color: #555B6E;
+    font-family: 'Ubuntu',sans-serif;
+}
+
+.nav-heading{
+    margin-left: 5%;
+    display: inline-block;
+    margin-top: 1.5%;
+}
+.nav-title:hover,.nav-link:hover{
+    color: #989EAE;
+}
+
+/* Top Section */
+
+.left-section{
+    display: inline-block;
+    margin-right: auto;
+    padding: 3.8% 0% 10% 2%;
+    width: 44%;
+}
+.right-section{
+    position: absolute;
+    display: inline-block;
+    /* background-color: #DFF3E3; */
+    background-color: #BEE3DB;
+    height: 30rem;
+    width: 40%;
+    margin: 4% 0rem 0rem 14%;
+}
+
+
+h1{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    margin: 10% 0 auto 20%;
+    width: 65%;
+    font-size: 400%;
+    line-height: 1.5;
+
+
+}
+
+.top-text{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 400;
+    font-size: 105%;
+    margin: 7% auto auto 20%;
+    width: 54%;
+    color: #1a1b41;
+    display: block;
+    margin-right: 0%;
+    position: relative;
+}
+
+/* Donate Button */
+
+.btn{
+    position: relative;
+    display: inline-block;
+    margin-left: 27%;
+    margin-top: 7%; 
+    
+}
+
+.btn-primary{
+    background-color: #BEE3DB;
+    border-color: #BEE3DB;
+    color: #FFF;
+}
+
+.btn-primary:hover{
+    background-color: #8DCEC0;
+    border-color: #8DCEC0;
+}
+
+/* Carousel */
+
+.news-links{
+    text-decoration: none;
+}
+
+.news:hover{
+    color: #f5f5f5;
+}
+.news{
+    color: #FFF;
+    font-family: 'Newsreader',sans-serif;
+    font-weight: 300;
+    width: 70%;
+    font-size: 2rem;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 20%;
+
+}
+
+.carousel-control-prev, .carousel-control-next{
+    margin-top: 40%;
+    position: absolute;
+}
+
+.carousel-item{
+    padding: 7% auto auto auto;
+}
+
+
+.news-img{
+    margin-left: 25%;
+    margin-top: 10%;
+    width: 15%;
+    border-radius: 100%;
+    float: left;
+}
+
+.news-comp{
+    margin-top: 15%;
+    font-family: 'Ubuntu';
+    font-weight: 300;
+    color: #1a1b41;
+}
+
+
+h2{
+    font-family: 'Ubuntu';
+    font-weight: 600;
+    margin-top: 2.8%;
+    font-size: 200%;
+    text-align: center;
+}
+
+
+.sect-2{
+    position: relative;
+}
+.img1{
+    float: left;
+    padding-top: 3%;
+    margin-left: 10%;
+    padding-right: 2%;
+}
+
+.img2{
+    
+    float: right;
+    /* margin-left: 45%; */
+    margin-top: 7%;
+    margin-right: 15%;
+}
+
+.img3{
+    float: left;
+    margin: 10% 10% 2% 10%;
+}
+
+.head1{
+    color: #8DCEC0;
+    padding-top: 3%;
+}
+
+.head2{
+    color: #8DCEC0;
+    padding-top: 8%;
+}
+
+.head3{
+    color: #8DCEC0;
+    padding-top: 8%;
+
+}
+
+.abt{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 400;
+    margin: 2rem auto auto 7rem;
+    width: 50%;
+    line-height: 2;
+}
+
+
+
+.about-1{
+    margin-top: 1%;
+    padding-left: 15%;
+    width: 60%;
+    
+}
+
+.about-2{
+    margin-top: 1%;
+    padding-left: 15%;
+    width: 50%;
+    
+}
+
+.about-3{
+    /* margin-top: 1%; */
+    padding-left: 15%;
+    width: 60%;
+}
+
+/* CTA */
+
+.donate-now{
+    margin: 14% 10% 7% 11%;
+    background-color: #BEE3DB;
+    height: 30rem;
+    width: 80%;
+}
+
+.cta-head{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 700;
+    font-size: 300%;
+    text-align: center;
+    line-height: 1;
+    width: 65%;
+}
+
+.cta-body{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 400;
+    font-size: 150%;
+    margin-top: 8%;
+    color: #FFF;
+}
+
+.button-img1{
+    height: 20%; 
+    width: 20%;
+}
+.cta-button{
+    background-color: #FFF;
+    border-color: #FFF;
+    color: #1a1b41;
+    margin: 5% 45% ;
+    width: 14%;
+}
+
+.cta-button:hover{
+    background-color: #f5f5f5;
+    border-color: #FBFAF8;
+    color: #1a1b41;
+    
+}
+
+.footer{
+    background-color: #EFEFEF;
+    margin-top: 0%;
+    height: 4rem;
+    width: 100%;
+}
+
+.end{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 400;
+    color: #1a1b41;
+    text-align: center;
+    font-size: 1rem;
+    padding-top: 15px;
+}
+
+.navbar-toggler{
+    border-color: #8DCEC0;
+    border-width: 2px;
+}
+
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(137, 204, 189, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+
+@media (max-width:1232.67px) {
+    .right-section{
+        position: static;
+        width: 80%;
+        margin-left: 10%;
+        height: 90%;
+        padding-bottom: 8%;
+    
+    }
+    
+    h1,h2, .left-section{
+        text-align: center;
+        width: 100%;
+        margin: 7% auto 3% auto;
+    }
+    
+    .top-text{
+        text-align: center;
+        width: 50%;
+        margin: 1% auto 3% auto;
+    }
+    
+    .btn{
+        margin: 3% auto;
+    }
+    
+    
+    .img1,.img2,.img3{
+        width: 20%;
+        float:none;
+        margin-left: 42%;
+    }
+    
+    .head1, .head2, .head3, .about-1,.about-2,.about-3{
+        text-align: center;
+        width: 80%;
+        margin: auto;
+        margin-left: 3%;
+    }
+    
+    .middle-section{
+        margin: auto;
+    }
+    
+       
+    .about-3{
+        margin-top:1%;
+    
+    }
+    
+    .donate-now{
+        width: 80%;
+        height: max-content;
+        display: block;
+        justify-content: center;
+    }
+    
+    .cta-head{
+        font-size: 275%;
+        width: 90%;
+        padding-left: 4%;
+        
+    }
+    
+    .cta-body{
+        width: 70%;
+        font-size: 100%;
+    }
+    
+    .button-img{
+        width: 8%;
+        height: 8%;
+
+    }
+    .cta-button{
+        margin: 5% 40% ;
+        width: 14%;
+        padding: 1%;
+        /* font-size: 75%;     */
+    }
+}
+
+@media (max-width:339px) {
+    .cta-button{
+        margin: 7% 25% ;
+        width: 45%;
+    }
+}
+
+@media (max-width:400px) and (min-width:339px){
+    .cta-button{
+        margin: 7% 25% ;
+        width: 40%;
+    }
+}
+
+@media (max-width:460px) and (min-width:401px) {
+    .cta-button{
+        margin: 5% 33% ;
+        width: 35%;
+    }
+}
+
+@media (max-width:580px) and (min-width:461px) {
+    .cta-button{
+         margin: 5% 35% ;
+        width: 30%;
+    }
+}
+
+@media (min-width:581px) and (max-width:1092px) {
+    .cta-button{
+        margin: 5% 35% ;
+        width: 26%;
+    }
+}
+    
+/* @media (max-width:460px) {
+    .cta-button{
+        margin: 5% 20% ;
+        width: 35%;
+    }
+
+} */
