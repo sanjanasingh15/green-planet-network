@@ -15,5 +15,5 @@ The website is created using HTML, CSS and Bootstrap. The payment functionality 
 
 ## Website Link
 
-The website is also hosted on Github Pages. It can be viewed [here](https://sanjanasingh15.github.io/green-planet-network/).
+The website is also hosted using Github Pages. It can be viewed [here](https://sanjanasingh15.github.io/green-planet-network/).
 
